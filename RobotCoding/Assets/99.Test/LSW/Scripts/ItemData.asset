@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: ItemData
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData_LSW
+  Foods:
+  - itemName: Tuna
+    itemDiscription: Tuna Can
+    itemWeight: 1.5
+    itemType: 0
+    energy: 12
+    moisture: -5
+    stress: 0
+    expireDate: 100
+  - itemName: Mushroom
+    itemDiscription: Nameless Mushroom
+    itemWeight: 0.5
+    itemType: 0
+    energy: 5
+    moisture: -2
+    stress: 15
+    expireDate: 5
+  - itemName: Old Bread
+    itemDiscription: None
+    itemWeight: 0.5
+    itemType: 0
+    energy: 10
+    moisture: -10
+    stress: 0
+    expireDate: 5
+  - itemName: Snacks
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 7
+    moisture: -5
+    stress: -5
+    expireDate: 0
+  - itemName: Water
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 0
+    moisture: 15
+    stress: 0
+    expireDate: 0
+  - itemName: Raw Meat
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 9
+    moisture: -6
+    stress: 10
+    expireDate: 0
+  - itemName: Banana
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 10
+    moisture: -5
+    stress: -3
+    expireDate: 0
+  - itemName: Cake
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 8
+    moisture: -7
+    stress: -10
+    expireDate: 0
+  - itemName: Coffee
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 0
+    moisture: 0
+    stress: 0
+    expireDate: 0
+  - itemName: Juice
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 0
+    moisture: 0
+    stress: 0
+    expireDate: 0
+  - itemName: Rum
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 0
+    moisture: 0
+    stress: 0
+    expireDate: 0
+  - itemName: Milk
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 0
+    moisture: 0
+    stress: 0
+    expireDate: 0
+  - itemName: Bottle Milk
+    itemDiscription: 
+    itemWeight: 0
+    itemType: 0
+    energy: 0
+    moisture: 0
+    stress: 0
+    expireDate: 0
+  Materials:
+  - itemName: Wood
+    itemDiscription: 
+    itemWeight: 3
+    itemType: 1
+  - itemName: 'OIl '
+    itemDiscription: 
+    itemWeight: 5
+    itemType: 1
+  - itemName: Gear
+    itemDiscription: 
+    itemWeight: 5
+    itemType: 1
+  - itemName: Wire
+    itemDiscription: 
+    itemWeight: 4
+    itemType: 1
+  - itemName: Scrap
+    itemDiscription: 
+    itemWeight: 5
+    itemType: 1
+  - itemName: Battery
+    itemDiscription: 
+    itemWeight: 2
+    itemType: 1
+  Games:
+  - itemName: Game
+    itemDiscription: 
+    itemWeight: 1
+    itemType: 2
+    stress: -30
+  - itemName: BoardGame
+    itemDiscription: 
+    itemWeight: 1
+    itemType: 0
+    stress: -20
+  - itemName: Doll
+    itemDiscription: 
+    itemWeight: 1
+    itemType: 0
+    stress: -20
+  - itemName: Book
+    itemDiscription: 
+    itemWeight: 1
+    itemType: 0
+    stress: -10
+  Extras:
+  - itemName: Kit
+    itemDiscription: 
+    itemWeight: 10
+    itemType: 3

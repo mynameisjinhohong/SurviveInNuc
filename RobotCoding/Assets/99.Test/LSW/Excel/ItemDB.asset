@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94afdbea09b15604c8de41f8ba8c8f5f, type: 3}
+  m_Name: ItemDB
+  m_EditorClassIdentifier: 
+  ItemSheet:
+  - Type: Food
+    Name: "\uD1B5\uC870\uB9BC \uCE94"
+    Weight: 1.5
+    Energy: 12
+    Moisture: -5
+    Stress: 0
+    ExpireDate: 100
+    Discription: 
+  - Type: Food
+    Name: "\uC774\uB984 \uBAA8\uB97C \uBC84\uC12F"
+    Weight: 0.5
+    Energy: 5
+    Moisture: -2
+    Stress: 15
+    ExpireDate: 5
+    Discription: 
+  - Type: Food
+    Name: "\uC624\uB798\uB41C \uBE75"
+    Weight: 0.5
+    Energy: 10
+    Moisture: -10
+    Stress: 0
+    ExpireDate: 5
+    Discription: 
+  - Type: Food
+    Name: "\uACFC\uC790"
+    Weight: 0.5
+    Energy: 7
+    Moisture: -5
+    Stress: -5
+    ExpireDate: 15
+    Discription: 
+  - Type: Food
+    Name: "\uBB3C"
+    Weight: 1
+    Energy: 0
+    Moisture: 15
+    Stress: 0
+    ExpireDate: 0
+    Discription: 
+  - Type: Food
+    Name: "\uACE0\uAE30"
+    Weight: 0.5
+    Energy: 9
+    Moisture: -6
+    Stress: 10
+    ExpireDate: 5
+    Discription: 
+  - Type: Food
+    Name: "\uBC14\uB098\uB098"
+    Weight: 0.5
+    Energy: 10
+    Moisture: -5
+    Stress: -3
+    ExpireDate: 5
+    Discription: 
+  - Type: Food
+    Name: "\uCF00\uC774\uD06C"
+    Weight: 0.5
+    Energy: 8
+    Moisture: -7
+    Stress: -10
+    ExpireDate: 5
+    Discription: 
+  - Type: Food
+    Name: "\uCEE4\uD53C"
+    Weight: 0.5
+    Energy: 0
+    Moisture: 10
+    Stress: 0
+    ExpireDate: 20
+    Discription: 
+  - Type: Food
+    Name: "\uC8FC\uC2A4"
+    Weight: 0.5
+    Energy: 1
+    Moisture: 5
+    Stress: -8
+    ExpireDate: 20
+    Discription: 
+  - Type: Food
+    Name: "\uC220"
+    Weight: 0.5
+    Energy: 0
+    Moisture: 10
+    Stress: -15
+    ExpireDate: 0
+    Discription: 
+  - Type: Food
+    Name: "\uC6B0\uC720 \uD55C\uD1B5"
+    Weight: 1
+    Energy: 4
+    Moisture: 8
+    Stress: 0
+    ExpireDate: 5
+    Discription: 
+  - Type: Food
+    Name: "\uC6B0\uC720 \uD55C\uD329"
+    Weight: 0.5
+    Energy: 2
+    Moisture: 4
+    Stress: 0
+    ExpireDate: 5
+    Discription: 
+  - Type: Material
+    Name: "\uC77C\uBC18 \uB098\uBB34"
+    Weight: 3
+    Energy: 0
+    Moisture: 0
+    Stress: 0
+    ExpireDate: 0
+    Discription: 
+  - Type: Material
+    Name: "\uAE30\uB984\uD1B5"
+    Weight: 5
+    Energy: 0
+    Moisture: 0
+    Stress: 0
+    ExpireDate: 0
+    Discription: 
+  - Type: Material
+    Name: "\uD1B1\uB2C8\uBC14\uD034"
+    Weight: 5
+    Energy: 0
+    Moisture: 0
+    Stress: 0
+    ExpireDate: 0
+    Discription: 
+  - Type: Material
+    Name: "\uC804\uC120"
+    Weight: 4
+    Energy: 0
+    Moisture: 0
+    Stress: 0
+    ExpireDate: 0
+    Discription: 
+  - Type: Material
+    Name: "\uACE0\uCCA0"
+    Weight: 5
+    Energy: 0
+    Moisture: 0
+    Stress: 0
+    ExpireDate: 0
+    Discription: 
+  - Type: Material
+    Name: "\uAC74\uC804\uC9C0"
+    Weight: 2
+    Energy: 0
+    Moisture: 0
+    Stress: 0
+    ExpireDate: 0
+    Discription: 
+  - Type: Game
+    Name: "\uAC8C\uC784\uAE30"
+    Weight: 1
+    Energy: 0
+    Moisture: 0
+    Stress: -30
+    ExpireDate: 0
+    Discription: 
+  - Type: Game
+    Name: "\uBCF4\uB4DC\uAC8C\uC784"
+    Weight: 1
+    Energy: 0
+    Moisture: 0
+    Stress: -20
+    ExpireDate: 0
+    Discription: 
+  - Type: Game
+    Name: "\uC778\uD615"
+    Weight: 1
+    Energy: 0
+    Moisture: 0
+    Stress: -20
+    ExpireDate: 0
+    Discription: 
+  - Type: Game
+    Name: "\uCC45"
+    Weight: 1
+    Energy: 0
+    Moisture: 0
+    Stress: -10
+    ExpireDate: 0
+    Discription: 
+  - Type: Extra
+    Name: "\uBC29\uC0AC\uB2A5 \uC815\uD654 \uD0A4\uD2B8"
+    Weight: 10
+    Energy: 0
+    Moisture: 0
+    Stress: 0
+    ExpireDate: 0
+    Discription: 
